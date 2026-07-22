@@ -1,0 +1,68 @@
+# ==========================
+# Python / Django
+# ==========================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.sqlite3
+db.sqlite3
+
+*.log
+*.pot
+
+*.pyc
+
+venv/
+env/
+ENV/
+.venv/
+
+.env
+.env.*
+
+media/
+
+# Django
+staticfiles/
+
+# ==========================
+# React / Node.js
+# ==========================
+
+node_modules/
+build/
+dist/
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ==========================
+# IDE
+# ==========================
+
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+
+# ==========================
+# OS
+# ==========================
+
+.DS_Store
+Thumbs.db
+
+# ==========================
+# Git
+# ==========================
+
+*.orig
